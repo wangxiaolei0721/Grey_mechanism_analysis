@@ -1,6 +1,6 @@
 ## Matlab codes for paper
 
-## Xiaolei Wang, Naiming Xie. Exploring the mechanism of grey forecasting model: A perspective from  dynamic system modelling. Submitted to Communications in Nonlinear Science and Numerical Simulation
+## Xiaolei Wang, Naiming Xie. Exploring the mechanism of grey forecasting model: A perspective from  dynamic system modelling. Submitted to Communications in statistics - theory and methods
 ## Written by Xiaolei Wang
 
 ## College of Economics and Management, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China
